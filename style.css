@@ -1,0 +1,22 @@
+*{
+	box-sizing: border-box;
+}
+
+
+html,body{
+	height: 100%;
+}
+
+body{
+	font-family: sans-serif;
+	background-color: lightgray;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+
+
+/*container*/
+.container{
+	border: 1px solid black;
+}
